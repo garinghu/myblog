@@ -18,6 +18,7 @@
  ### Javascript
  
  -  [去抖和节流](https://github.com/garinghu/myblog/issues/3)  （2018.02.10）
+ -  [简单实现一下前端路由(hash)](https://github.com/garinghu/myblog/issues/4)  （2018.05.20）
  
 
 
