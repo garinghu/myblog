@@ -11,20 +11,25 @@
   
   ### Vue
   
-  - [自己实现一下Vue双向绑定](https://github.com/garinghu/myblog/issues/1)  （2017.11.16）
+  -  [自己实现一下Vue双向绑定](https://github.com/garinghu/myblog/issues/1)  （2017.11.16）
+  
+  
+  ### React
+  
+  -  [React中的事务与批量更新](https://github.com/garinghu/myblog/issues/8)  （2017.4.20）
   
 
 
- ### Javascript
+  ### Javascript
  
- -  [去抖和节流](https://github.com/garinghu/myblog/issues/3)  （2018.02.10）
- -  [简单实现一下前端路由(hash)](https://github.com/garinghu/myblog/issues/4)  （2018.05.20）
- -  [es5实现继承](https://github.com/garinghu/myblog/issues/5)  （2017.11.15）
- -  [JS观察者模式](https://github.com/garinghu/myblog/issues/6)  （2018.5.26）
- -  [从es6高阶函数到柯里化](https://github.com/garinghu/myblog/issues/7)  （2018.5.27）
+  -  [去抖和节流](https://github.com/garinghu/myblog/issues/3)  （2018.02.10）
+  -  [简单实现一下前端路由(hash)](https://github.com/garinghu/myblog/issues/4)  （2018.05.20）
+  -  [es5实现继承](https://github.com/garinghu/myblog/issues/5)  （2017.11.15）
+  -  [JS观察者模式](https://github.com/garinghu/myblog/issues/6)  （2018.5.26）
+  -  [从es6高阶函数到柯里化](https://github.com/garinghu/myblog/issues/7)  （2018.5.27）
  
 
 
-### Html&CSS
+ ### Html&CSS
 
-- [position: sticky 粘性定位](https://github.com/garinghu/myblog/issues/2)  （2018.02.10）
+ - [position: sticky 粘性定位](https://github.com/garinghu/myblog/issues/2)  （2018.02.10）
