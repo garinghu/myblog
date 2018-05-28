@@ -27,6 +27,7 @@
   -  [es5实现继承](https://github.com/garinghu/myblog/issues/5)  （2017.11.15）
   -  [JS观察者模式](https://github.com/garinghu/myblog/issues/6)  （2018.5.26）
   -  [从es6高阶函数到柯里化](https://github.com/garinghu/myblog/issues/7)  （2018.5.27）
+  -  [es6module与CommonJS](https://github.com/garinghu/myblog/issues/8)  （2018.4.27）
  
 
 
