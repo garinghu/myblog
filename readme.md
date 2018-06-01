@@ -35,3 +35,5 @@
  ### Html&CSS
 
  - [position: sticky 粘性定位](https://github.com/garinghu/myblog/issues/2)  （2018.02.10）
+ 
+ ### 业务纯熟
