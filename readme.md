@@ -40,4 +40,9 @@
 
  - [逆波兰式转换与求值](https://github.com/garinghu/myblog/issues/11)  （2018.6.2）
  
+ 
+ ### 读书笔记
+
+ - [《Javascript设计模式与开发实践》读书笔记----单例模式](https://github.com/garinghu/myblog/issues/13)  （2018.6.7）
+ 
 
