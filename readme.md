@@ -16,7 +16,13 @@
   
   ### React
   
-  -  [React中的事务与批量更新](https://github.com/garinghu/myblog/issues/8)  （2017.4.20）
+  -  [React中的事务与批量更新](https://github.com/garinghu/myblog/issues/8)  （2018.4.20）
+  
+  
+  
+  ### 前端工程化
+  
+  -  [Webpack编译原理](https://github.com/garinghu/myblog/issues/8)  （2018.4.6）
   
 
 
