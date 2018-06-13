@@ -30,7 +30,7 @@
  
   -  [去抖和节流](https://github.com/garinghu/myblog/issues/3)  （2018.02.10）
   -  [简单实现一下前端路由(hash)](https://github.com/garinghu/myblog/issues/4)  （2018.05.20）
-  -  [JS垃圾回收机制与内存泄漏](https://github.com/garinghu/myblog/issues/10)  （非原创）
+  -  [JS垃圾回收机制与内存泄漏](https://github.com/garinghu/myblog/issues/10)  （转载）
   -  [es5实现继承](https://github.com/garinghu/myblog/issues/5)  （2017.11.15）
   -  [JS观察者模式](https://github.com/garinghu/myblog/issues/6)  （2018.5.26）
   -  [从es6高阶函数到柯里化](https://github.com/garinghu/myblog/issues/7)  （2018.5.27）
