@@ -48,6 +48,7 @@
  
  ### 读书笔记
 
- - [《Javascript设计模式与开发实践》读书笔记----单例模式](https://github.com/garinghu/myblog/issues/13)  （2018.6.7）
+ - [《JavaScript设计模式与开发实践》读书笔记----单例模式](https://github.com/garinghu/myblog/issues/13)  （2018.6.7）
+ - [《你不知道的JavaScript》读书笔记----我曾对强制类型转换一无所知](https://github.com/garinghu/myblog/issues/16)  （2019.3.26）
  
 
